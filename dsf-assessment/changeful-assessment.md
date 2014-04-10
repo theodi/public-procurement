@@ -8,7 +8,7 @@ Changeful's approach is a superlative example of how to bring the data user's ne
 
 *How would you go about understanding the needs of different types of data user to develop a solution that meets the needs of specialist and non-specialist users alike?*
 
-**A Good response.**
+**An Excellent response.**
 
 Changeful demonsrate an exemplary approach to embedding the voice of the user, including data users, throughout the project. We were particularly impressed by the proposals to:
 
