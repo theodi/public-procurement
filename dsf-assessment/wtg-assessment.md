@@ -71,3 +71,7 @@ The Web Technology Group demonstrated an exemplary understanding of the support 
 **A Good response.**
 
 The Web Technology Group's team composition covered most of the roles required to deliver an open digital service. An Excellent response would have explicitly mentioned a UI/UX Developer to ensure that the service provided an engaging interface.
+
+## Comment from Web Technology Group
+
+> WTG are delighted to have participated with the ODI on this exercise. We especially appreciate the independent view that the ODI have provided on our customer engagement approach which WTG have developed together with our Public Sector clients over many years and for whom we have developed and supported secure business solutions.
