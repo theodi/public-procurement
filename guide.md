@@ -2,6 +2,34 @@
 
 *This is a draft document. Comments either as issues on this repo or emailed to [jeni@theodi.org](mailto:jeni@theodi.org) are welcome.*
 
+This guide describes how to embed open data into the procurement of public services.
+
+[Strategy](#strategy) discusses why it is a good idea to embed open data into public service delivery. Open data is a public good, and therefore a valuable outcome of the delivery of a public service in its own right. But open data can also help to reconfigure how a public service is delivered, particularly enabling partnerships between the public and private sectors, while avoiding lock-in to particular partners.
+
+[Open Data in Public Services](#open-data-in-public-services) outlines the ways in which open data plays a part in public service delivery. It outlines four types of open data that may be produced as part of providing a public service:
+
+  * **performance data** &mdash; statistical data about the quality of delivery of the service
+  * **administrative (exhaust) data** &mdash; primarily statistical data that summarises data that is collected as a side effect of performing the service
+  * **reference data** &mdash; data that is created and maintained in order to be referred to while performing the service, usually lists of important assets
+  * **infrastructure data** &mdash; data whose creation, maintenance and publication is the primary purpose of the contract, such as registers
+
+Procurement of a public service should consider what data to require in each of these categories, as applicable. This section also highlights the ways in which open data from other sources might be used in the delivery of the public service, highlighting the impact on the procurement of that service.
+
+[Open Data in an Agile Project](#open-data-in-an-agile-project) discusses how open data should be embedded into agile project delivery, and what should be delivered at each stage of the delivery of the project.
+
+[Procuring through Framework Contracts](#procuring-through-framework-contracts) outlines how to embed open data into contracts that are procured through a framework contract. It highlights the use of G-Cloud to provision underlying infrastructure and the use of the Digital Service Framework to provision the skills for publishing open data.
+
+[Inviting Tenders](#inviting-tenders) contains recommendations for what to include in an Invitation to Tender (ITT). In brief, you should:
+
+  * include a Statement of Intent that states your organisation's general policy around open data
+  * include requirements for the publication of specific datasets as open data, against specific levels of the ODI Open Data Certificate
+  * include the costs of licensing data and the cost of moving to alternative suppliers as part of the price criteria
+  * include in your sample contract clauses that ensure your organisation has the Intellectual Property Rights for data produced under the contract
+
+[Evaluating Proposals](#evaluating-proposals) contains recommended questions and model answers for evaluating bids against your open data requirements. While simple yes/no questions about meeting the open data requirements for the service may be sufficient in some cases, more detailed questions should be used when the publication of open data forms a more central role in the procurement.
+
+[Contract Negotiation](#contract-negotiation) highlights the importance of mapping the open data requirements in the original ITT into contractual requirements, and avoiding clauses that transfer rights over the data to the supplier. It recommends including a table of datasets, frequency of publication and desired Open Data Certificate level within the contract itself.
+
 ## Strategy
 
 There are many benefits of open data for the public sector. It can help deliver value for money, aid quality of service, and by improving transparency help competition and underpin accountability.
@@ -178,7 +206,7 @@ It is good practice to have a general statement of intent that states your organ
 
 In keeping with this general policy, an example statement of intent would be:
 
-Your Organisation aims to make its data open and supports the use of open data. We do this by making data available under an open licence, and in a machine readable form, so that others may use it freely. Where we can, we use open data sources as part of ensuring good value for money.
+> *Your Organisation* aims to make its data open and supports the use of open data. We do this by making data available under an open licence, and in a machine readable form, so that others may use it freely. Where we can, we use open data sources as part of ensuring good value for money.
 
 This sets a context that enables bidders to understand the general aims of the tender.
 
@@ -192,7 +220,7 @@ The number of requirements that you can make around open data in your ITT, and h
 
 We have discussed above the various kinds of requirements that you might include in a procurement. The general form of wording that we suggest you use for requirements for specific data might be:
 
-The Contractor must publish the data listed in Appendix X according to the indicated level of the ODI Open Data Certificates.
+> The Contractor must publish the data listed in Appendix *X* according to the indicated level of the ODI Open Data Certificates.
 
 In the associated Appendix, you should list:
 
@@ -246,7 +274,7 @@ Questions can be grouped, with each group having a scoring threshold. When invit
 
 Regardless of what you're procuring, you should have at least one requirement and one scoring question about producing open data. We recommend having a yes/no question such as:
 
-"Can you meet the requirements for publishing open data?"
+> "Can you meet the requirements for publishing open data?"
 
 which confirms that the supplier can meet those requirements, and therefore that they can then be written into the contract.
 
@@ -254,17 +282,14 @@ If open data is an important aspect of the service that you're procuring, then y
 
 When the essence of the contract is about delivering a service that is unrelated to open data publishing, you could just follow up with a single question:
 
-"If yes, how will you meet those requirements?"
+> "If yes, how will you meet those requirements?"
 
 When there are significant requirements for open data publication, you will need to ask more detailed questions about the supplier's approach. We suggest asking questions around each of the areas highlighted in the Open Data Certificates, namely:
 
- * "How will you meet the legal requirements for open data around rights, licensing, and privacy?"
-
- * "How will you meet the practical requirements for open data around findability, accuracy, quality and guarantees?"
-
- * "How will you meet the technical requirements for open data around locations, formats and trust?"
-
- * "How will you meet the social requirements for open data around documentation, support and services?"
+> * "How will you meet the legal requirements for open data around rights, licensing, and privacy?"
+> * "How will you meet the practical requirements for open data around findability, accuracy, quality and guarantees?"
+> * "How will you meet the technical requirements for open data around locations, formats and trust?"
+> * "How will you meet the social requirements for open data around documentation, support and services?"
 
 ##### Model Answers
 
@@ -332,7 +357,7 @@ You should always ask suppliers about how they use of open data to deliver servi
 
 We recommend including a question like:
 
-"Please describe how you will use open data in delivering this service."
+> "Please describe how you will use open data in delivering this service."
 
 A good answer to this question will demonstrate a commitment to using open data where possible and give examples of the open data sources that the supplier uses. An excellent answer might include a commitment to contribute back data into those sources, such as contributing to Open Street Map.
 
